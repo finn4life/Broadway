@@ -12,12 +12,14 @@ h1 {
 
 #header {
   background-image: url("file:///C:/cygwin64/home/Paul/broadway/resources/images/the-flatiron-building.jpg");
+  background-position: center;
 }
 
-#top_links {
+a {
   font-family: Helvetica;
-  font-size: 18px;
+  font-size: 24px;
   color: white;
+  font-weight: bold;
 }
 
 h2 {
@@ -34,4 +36,22 @@ h3 {
 
 p {
   font-family: Helvetica;
+  font-size: 14px;
+}
+
+#divider {
+  background-image: url("file:///c:/cygwin64/home/Paul/broadway/resources/images/the-flatiron-building.jpg");
+  background-position: left;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }

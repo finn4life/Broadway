@@ -1,0 +1,14 @@
+html {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#header {
+  background-image: url("file:///C:/cygwin64/home/Paul/broadway/resources/images/the-flatiron-building.jpg");
+}

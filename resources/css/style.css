@@ -1,5 +1,6 @@
 html {
   text-align: center;
+  font-family: Helvetica;
 }
 
 h1 {
@@ -11,4 +12,26 @@ h1 {
 
 #header {
   background-image: url("file:///C:/cygwin64/home/Paul/broadway/resources/images/the-flatiron-building.jpg");
+}
+
+#top_links {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
 }
